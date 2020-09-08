@@ -1,0 +1,52 @@
+{
+  "engineName": "verticalsearchdemo",
+  "hostIdentifier": "host-eedkp2",
+  "endpointBase": "https://host-eedkp2.api.swiftype.com",
+  "searchKey": "search-xm8yavv4v5b95ofnq1nf3yyq",
+  "resultFields": [
+    "11d599f229a80023d2f40e7c52cd941e",
+    "e4cbb126dabf22159aff90223243ff2a",
+    "839106b353877fa3d896ffb9c1fe01c0",
+    "58435fcab804439efdcaa7ecca0fd783",
+    "64d0272dc8496abfd9523a8df63c184c",
+    "1e2637cb5f7a2c4615a99a26c0566c66",
+    "455802d725fde67293970ab3953b1d39",
+    "549a0541e4452ecd155efc032aaa72d7",
+    "a6a2b5e825b8ce1c3b517adb2497c5ed",
+    "73a9ba2b706e02628fa22ca1357174b1",
+    "2f8bdf60db4d85627ab8f040e67aa78d",
+    "3a2adeacbf35985a508f630661eebb43",
+    "dd244d1299cf62058c71cef022bcfab3",
+    "b43c077756d5a326c4854e1399fd2464",
+    "d8491fcefe14d1398de419984dccf427",
+    "5d8434d45f730aa4fc040c5fa7495cde",
+    "c43a1fc560511962321dbf21df14fe49",
+    "8d8f39de4a07929a92c2e6dd7a72a0af",
+    "426ea422646470737cb364453e94f38a",
+    "country",
+    "country_code",
+    "has_expired",
+    "job_board",
+    "job_description",
+    "job_title",
+    "job_type",
+    "location",
+    "state",
+    "zip",
+    "organization",
+    "page_url",
+    "salary",
+    "sector",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "country",
+    "state",
+    "organization"
+  ],
+  "titleField": "job_title",
+  "urlField": "page_url"
+}
